@@ -1,0 +1,171 @@
+
+<html>
+<head>
+  <title>Moses dinners</title>
+<style>
+  .header{
+    min-height: 100vh;
+    width: 100%;
+    background: linear-gradient(to top, rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/background.jpeg);
+background-position: center;
+background-size: cover;
+position: relative;
+}
+nav{
+    display: flex;
+    padding: 1% 1%;
+    justify-content: 15px left;
+    align-items: center;
+}
+nav img{
+    width: 130px; 
+    border-radius: 10px; 
+    margin-right: 10px;  
+}
+.nav-links{
+    flex: 1;
+    text-align: right;
+}
+.order-button:hover{
+    border: 1px solid rgb(255, 51, 0);
+    background: rgba(12, 8, 0, 0.534);
+    transition: 1s;
+}
+
+
+
+  
+  .user-text{
+    color: rgb(255, 81, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 45px;
+    font-size: 28px;
+    text-decoration: underline;
+  }
+  .invite{
+    color: antiquewhite;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 20px;
+  }
+  .comment{
+    color: orangered;
+    font-size: 18px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  margin: 20px;
+}
+.menu-category {
+  background: transparent;
+  border: 1px solid rgb(255, 72, 0);
+  font-weight: bold;
+}
+
+.menu-item {
+  width: 250px;
+  height: 100px;
+  border: 1px solid rgb(255, 72, 0);
+  border-radius: 10px;
+  margin: 10px;
+  padding: 20px;
+}
+
+
+.menu-item:hover {
+  background-color: rgba(255, 136, 0, 0.719);
+}
+
+.menu-item input {
+  display: none;
+}
+
+.menu-item label {
+  display: flex;
+  font-size: 22px;
+  color: aliceblue;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.menu-item img {
+  width: 100px;
+  height: 100px;
+  float: right;
+  border-radius: 50px;
+  margin-right: 10px;
+}
+
+.menu-item span {
+  display: flex;
+  float: right;
+  font-size: 20px;
+  color: aliceblue;
+  padding: -40%;
+  margin-bottom: 10px;
+  margin-top: -60px;
+}
+
+.order-button {
+  width: 150px;
+  height: 40px;
+  font-size: 20px;
+  color: aliceblue;
+  border-radius: 7px;
+  background: transparent;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <section class="header">
+          <nav><a href="index.html"><img src="images/logo2.jpeg"></a>
+            <h1 class="user-text">Welcome to Moses Dinners.</h1>
+          </nav>
+</head>
+<body>
+<p class="invite">Please select your order from the menu below:</p>
+<form class="menu">
+<div class="menu-item">
+<input type="checkbox" id="pizza" name="pizza " value="750">
+<label for="pizza"><img src="images/pizza.jpeg" alt="Pizza">Pizza</label>
+<span>750 Ksh</span>
+</div>
+<div class="menu-item">
+  <input type="checkbox" id="Pilau" name="Pilau" value="200">
+  <label for="Pilau"><img src="images/pilau.jpeg" alt="Pilau">Pilau</label>
+  <span>200 Ksh</span>
+  </div>
+<div class="menu-item">
+<input type="checkbox" id="burger" name="burger" value="180">
+<label for="burger"><img src="images/burger.jpeg" alt="Burger">Burger</label>
+<span>180 Ksh</span>
+</div>
+<div class="menu-item">
+<input type="checkbox" id="salad" name="salad" value="35">
+<label for="Chapati"><img src="images/zimbo.jpeg" alt="Chapati">Chapati</label>
+<span>35 Ksh</span>
+</div>
+<div class="menu-item">
+  <input type="checkbox" id="Coffee" name="Coffee" value="150">
+  <label for="Coffee"><img src="images/coffee2.jpeg" alt="Coffee">Coffee</label>
+  <span>150 Ksh</span>
+  </div>
+  <div class="menu-item">
+    <input type="checkbox" id="Mandazi" name="Mandazi" value="15">
+    <label for="Mandazi"><img src="images/mandazi2.jpeg" alt="Mandazi">Mandazi</label>
+    <span>15 Ksh</span>
+    </div>
+<input type="submit" class="order-button" value="Order Now">
+</form>
+<p class="comment">Giving you the best dinning experience</p>
+</section>
+</body>
+</html>
