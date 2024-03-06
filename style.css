@@ -1060,15 +1060,34 @@ footer a:hover {
         width: 90px;
         margin: 0 0 10px 0;
     }
-    h1 {
+   h1{
         font-size: 38px;
+        line-height: 43px;
+        color: black;
     }
-    h2 {
+    h2{
         font-size: 32px;
+        line-height: 35px;
+        color: burlywood;
     }
     #hero {
         padding: 0 20px;
-        background-position: 40%;
+        background-position: 40%; 
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;
+    width: 78%;
+    background-size: cover;
+    background-position: center;
+    padding: 20px 20px 10px 10px;
+    margin: 0 auto;
+    border-radius: 8px;
     }
     #product1 .pro-container {
         display: grid;
