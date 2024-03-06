@@ -550,6 +550,7 @@ footer a:hover {
 #contact-details .details li i {
     font-size: 14px;
     padding-right: 22px;
+    color: burlywood;
 }
 #contact-details .details li p {
     margin: 0;
