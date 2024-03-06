@@ -28,10 +28,12 @@ h6{
     font-size: 12px;
 }
 p{
-    font-size: 16px;
-    color: rgba(155, 153, 153, 0.781);
+    font-size: 14px;
+    color: rgb(155, 153, 153);
     margin: 15px 0 20px 0;
+    font-weight: 200;
 } 
+
 
 .section-m1 {
     margin: 40px 0;
