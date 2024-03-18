@@ -1180,6 +1180,10 @@ footer a:hover {
     .section-p2 {
         padding: 20px 60px;
     }
+    footer h4 {
+    font-size: 15px;
+    padding-bottom: 15px;
+}
     
 
     /*single product*/
