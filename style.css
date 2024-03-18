@@ -436,7 +436,7 @@ button.white {
 .ohms {
     width: 120px;
     border-radius: 60px;
-    margin-bottom: 3px;
+    margin-bottom: 0px;
 }
 .max {
     width: 85px;
