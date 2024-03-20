@@ -29,7 +29,7 @@ header img{
     padding-left: 8px;
 }
 .price {
-    font-weight: 600;
+    font-weight: 700;
     font-family: monospace;
     color: rgb(7, 185, 126);
 }
@@ -84,7 +84,7 @@ header .totalQuantity{
     padding-left: 8px;
 }
 .listProduct .item .price{
-    font-size: x-large;
+    font-size: 19px;
     padding-left: 8px;
     margin-bottom: 10px;
 }
