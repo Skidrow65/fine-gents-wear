@@ -86,7 +86,7 @@ header .totalQuantity{
     padding-left: 8px;
 }
 .listProduct .item .price{
-    font-size: 16px;
+    font-size: 14px;
     padding-left: 8px;
     margin-bottom: 10px;
 }
@@ -344,14 +344,14 @@ header .totalQuantity{
         
     }
     .listProduct .item h2 {
-        font-weight: 700;
-        font-size: 16px;
-        color: brown;
-        padding-left: 8px;
-        line-height: 28px;
-        margin-top: 8px;
-        margin-bottom: 8px;
-    }
+    font-weight: 700;
+    font-size: 15px;
+    color: brown;
+    padding-left: 8px;
+    line-height: 19px;
+    margin-top: 8px;
+    margin-bottom: 3px;
+}
     header img {
         width: 30px;
     }
