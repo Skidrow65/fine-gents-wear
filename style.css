@@ -29,9 +29,11 @@ header img{
     padding-left: 8px;
 }
 .price {
-    font-weight: 700;
+    font-weight: 800;
     font-family: monospace;
     color: rgb(7, 185, 126);
+    letter-spacing: 0.05px;
+}
 }
 .fa-anchor:before {
     content: "\f13d";
