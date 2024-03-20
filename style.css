@@ -288,6 +288,16 @@ header .totalQuantity{
     font-size: large;
     font-weight: bold;
 }
+.quantity button {
+    background: antiquewhite;
+    width: 30px;
+    border: none;
+    color: brown;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 5px;
+    text-align: center;
+}
 
 @media only screen and (max-width: 992px) {
     .listProduct{
