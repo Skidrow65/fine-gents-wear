@@ -357,7 +357,7 @@ header .totalQuantity{
         transform: translateX(20px);
         background: burlywood;
         background-size: cover;
-        width: 30px;
+        width: 23px;
         border-radius: 20px;
     }
     .returnCart h3 {
