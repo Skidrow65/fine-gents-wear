@@ -338,7 +338,7 @@ header .totalQuantity{
     }
     .listProduct .item img{
         width: 100%;
-            height: 200px;
+            height: 170px;
         object-fit: cover;
         border-radius: 10px;
         
