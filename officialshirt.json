@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "name": "Menswear X-uk outfits",
+        "price": 1520,
+        "image": "images/Ohm/shortsleeved (1).jpg"
+        
+    },
+    {
+        "id": 2,
+        "name": "Menswear X-uk outfits",
+        "price": 1220,
+        "image": "images/Ohm/shortsleeved (2).jpg"
+    },
+    {
+        "id": 3,
+        "name": "Menswear X-uk outfits",
+        "price": 1250,
+        "image": "images/Ohm/shortsleeved (3).jpg"
+        
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Menswear X-uk outfits",
+        "price": 1420,
+        "image": "images/Ohm/shortsleeved (4).jpg"
+    },
+    {
+        "id": 5,
+        "name": "Menswear X-uk outfits",
+        "price": 1120,
+        "image": "images/Ohm/shortsleeved (5).jpg"
+    },
+    {
+        "id": 6,
+        "name": "Menswear X-uk outfits",
+        "price": 1120,
+        "image": "images/Ohm/shortsleeved (6).jpg"
+    },
+    {
+        "id": 7,
+        "name": "Menswear X-uk outfits",
+        "price": 1020,
+        "image": "images/Ohm/shortsleeved (7).jpg"
+    },
+    {
+        "id": 8,
+        "name": "Menswear X-uk outfits",
+        "price": 1020,
+        "image": "images/Ohm/shortsleeved (8).jpg"
+    },
+    {
+        "id": 9,
+        "name": "Menswear X-uk outfits",
+        "price": 1520,
+        "image": "images/Ohm/shortsleeved (9).jpg"
+    },
+    {
+        "id": 10,
+        "name": "Menswear X-uk outfits",
+        "price": 1320,
+        "image": "images/Ohm/shortsleeved (10).jpg"
+    },
+    {
+        "id": 11,
+        "name": "Menswear X-uk outfits",
+        "price": 1120,
+        "image": "images/Ohm/shortsleeved (11).jpg"
+    },
+    {
+        "id": 12,
+        "name": "Menswear X-uk outfits",
+        "price": 1220,
+        "image": "images/Ohm/shortsleeved (12).jpg"
+    },
+    {
+        "id": 13,
+        "name": "Menswear X-uk outfits",
+        "price": 1320,
+        "image": "images/Ohm/shortsleeved (13).jpg"
+    },
+    {
+        "id": 14,
+        "name": "Menswear X-uk outfits",
+        "price": 1120,
+        "image": "images/Ohm/shortsleeved (14).jpg"
+    },
+    {
+        "id": 9,
+        "name": "Menswear X-uk outfits",
+        "price": 1320,
+        "image": "images/Ohm/shortsleeved (9).jpg"
+    },
+    {
+        "id": 10,
+        "name": "Menswear X-uk outfits",
+        "price": 1120,
+        "image": "images/Ohm/shortsleeved (10).jpg"
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "name": "Menswear X-uk outfits",
+        "price": 1700,
+        "image": "images/Ohm/longsleeved (8).jpg"
+        
+    },
+    {
+        "id": 2,
+        "name": "Menswear X-uk outfits",
+        "price": 1220,
+        "image": "images/Ohm/shortsleeved (8).jpg"
+    },
+    {
+        "id": 3,
+        "name": "Menswear X-uk outfits",
+        "price": 1250,
+        "image": "images/Ohm/sweatpants (8).jpg"
+        
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Menswear X-uk outfits",
+        "price": 1420,
+        "image": "images/Ohm/t (8).jpg"
+    },
+    {
+        "id": 5,
+        "name": "Menswear X-uk outfits",
+        "price": 1220,
+        "image": "images/Ohm/trench (8).jpg"
+    },
+    {
+        "id": 6,
+        "name": "Menswear X-uk outfits",
+        "price": 1320,
+        "image": "images/Ohm/j (2).jpg"
+    },
+    {
+        "id": 7,
+        "name": "Menswear X-uk outfits",
+        "price": 1120,
+        "image": "images/Ohm/longsleeved (2).jpg"
+    },
+    {
+        "id": 8,
+        "name": "Menswear X-uk outfits",
+        "price": 720,
+        "image": "images/Ohm/s (2).jpg"
+    },
+    {
+        "id": 9,
+        "name": "Menswear X-uk outfits",
+        "price": 520,
+        "image": "images/Ohm/s (6).jpg"
+    },
+    {
+        "id": 10,
+        "name": "Menswear X-uk outfits",
+        "price": 620,
+        "image": "images/Ohm/s (14).jpg"
+    },
+    {
+        "id": 11,
+        "name": "Menswear X-uk outfits",
+        "price": 520,
+        "image": "images/Ohm/s (8).jpg"
+    },
+    {
+        "id": 12,
+        "name": "Menswear X-uk outfits",
+        "price": 820,
+        "image": "images/Ohm/s (7).jpg"
+    }
+      ]

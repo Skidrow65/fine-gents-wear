@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "name": "Menswear X-uk outfits",
+        "price": 520,
+        "image": "images/Ohm/s (1).jpg",
+        "category": "shoes"
+    },
+    {
+        "id": 2,
+        "name": "Menswear X-uk outfits",
+        "price": 420,
+        "image": "images/Ohm/s (2).jpg"
+    },
+    {
+        "id": 3,
+        "name": "Menswear X-uk outfits",
+        "price": 850,
+        "image": "images/Ohm/s (3).jpg" 
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Menswear X-uk outfits",
+        "price": 420,
+        "image": "images/Ohm/s (4).jpg"
+    },
+    {
+        "id": 5,
+        "name": "Menswear X-uk outfits",
+        "price": 620,
+        "image": "images/Ohm/s (5).jpg"
+    },
+    {
+        "id": 6,
+        "name": "Menswear X-uk outfits",
+        "price": 620,
+        "image": "images/Ohm/s (6).jpg"
+    },
+    {
+        "id": 7,
+        "name": "Menswear X-uk outfits",
+        "price": 720,
+        "image": "images/Ohm/s (7).jpg"
+    },
+    {
+        "id": 8,
+        "name": "Menswear X-uk outfits",
+        "price": 820,
+        "image": "images/Ohm/s (8).jpg"
+    },
+    {
+        "id": 9,
+        "name": "Menswear X-uk outfits",
+        "price": 620,
+        "image": "images/Ohm/s (9).jpg"
+    },
+    {
+        "id": 10,
+        "name": "Menswear X-uk outfits",
+        "price": 820,
+        "image": "images/Ohm/s (10).jpg"
+    },
+    {
+        "id": 11,
+        "name": "Menswear X-uk outfits",
+        "price": 520,
+        "image": "images/Ohm/s (11).jpg"
+    },
+    {
+        "id": 12,
+        "name": "Menswear X-uk outfits",
+        "price": 520,
+        "image": "images/Ohm/s (12).jpg"
+    },
+    {
+        "id": 13,
+        "name": "Menswear X-uk outfits",
+        "price": 420,
+        "image": "images/Ohm/s (13).jpg"
+    },
+    {
+        "id": 14,
+        "name": "Menswear X-uk outfits",
+        "price": 620,
+        "image": "images/Ohm/s (14).jpg"
+    },
+    {
+        "id": 8,
+        "name": "Menswear X-uk outfits",
+        "price": 620,
+        "image": "images/Ohm/s (8).jpg"
+    },
+    {
+        "id": 9,
+        "name": "Menswear X-uk outfits",
+        "price": 820,
+        "image": "images/Ohm/s (9).jpg"
+    }
+]

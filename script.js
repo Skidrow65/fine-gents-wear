@@ -1,13 +1,13 @@
 const bar = document.getElementById('bar');
-const close = document.getElementById('close');
+const cloze = document.getElementById('cloze');
 const nav = document.getElementById('navbar');
 if(bar) {
     bar.addEventListener('click',()=> {
         nav.classList.add('active');
     })
 }
-if(close) {
-    close.addEventListener('click',()=> {
+if(cloze) {
+    cloze.addEventListener('click',()=> {
         nav.classList.remove('active');
     })
 }
