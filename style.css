@@ -38,6 +38,18 @@ header img{
     content: "\f13d";
     color: white;
 }
+#Message2 {
+    padding: 40px 20px;
+}
+#Message2 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: -50px;
+    background-repeat: no-repeat;
+    background-position: 20% 30%;
+}
 
 header{
     display: flex;
@@ -1029,6 +1041,31 @@ footer a:hover {
     padding: 80px;
     border: 1px solid #e1e1e1;
 }
+
+#Message2 input {
+    height: 2.125rem;
+    padding: 0 1.25em;
+    font-size: 14px;
+    width: 300px;
+    border: 1px solid burlywood;
+    border-radius: 18px;
+    outline: none;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+#Message2 button {
+    background-color: burlywood;
+    color: brown;
+    white-space: nowrap;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 18px;
+    border-bottom-right-radius: 18px;
+}
+#Message2 .form {
+    display: flex;
+    width: 40%;
+}
 #form-details form {
     width: 65%;
     display: flex;
@@ -1645,6 +1682,10 @@ footer a:hover {
     #Message {
        padding: 40px 20px;
     }
+    #Message2 {
+        padding: 30px 40px;
+        margin-top: -46px;
+    }
     .section-p2 {
         padding: 20px 60px;
     }
@@ -1721,6 +1762,7 @@ footer a:hover {
     width: 100%;
     margin-bottom: 30px;
 }
+    
 }
 /* mobile */
 @media only screen and (max-width: 768px) {
