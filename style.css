@@ -1226,10 +1226,11 @@ footer a:hover {
 #pagination a {
     text-decoration: none;
     background-color: burlywood;
-    padding: 15px 20px;
+    padding: 12px 18px;
     border-radius: 5px;
     color: brown;
     font-weight: 600;
+    font-size: 13px;
 }
 #pagination a i {
     font-size: 16px;
