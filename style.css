@@ -5,6 +5,7 @@ body{
 }
 a{
     text-decoration: none;
+    font-size: 10px;
 }
 h3 {
     font-size: 33px;
@@ -30,6 +31,10 @@ header img{
     color: rgb(243, 181, 25);
     margin-bottom: 5px;
     padding-left: 8px;
+}
+.info .price
+{
+font-size: 12px;
 }
 .price {
     font-weight: 600;
@@ -445,12 +450,12 @@ header .totalQuantity{
         opacity: 0;
     }
     .checkoutLayout {
-        display: grid;
-        grid-template-columns: repeat(1, 1fr);
-        grid-template-rows: repeat(2, 0.5fr);
-        gap: 50px;
-        padding: 20px;
-    }
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(2, 0.5fr);
+    gap: 30px;
+    padding: 5px;
+}
 }
 
 
