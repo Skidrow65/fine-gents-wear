@@ -20,6 +20,9 @@ h3 {
     max-width: 90%;
     transition: transform 1s;
 }
+#product1 h2 {
+    text-decoration: underline;
+}
 header img{
     width: 50px;
 }
