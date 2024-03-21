@@ -409,15 +409,15 @@ header .totalQuantity{
         font-weight: bold;
     }
     .returnCart .list .item {
-        display: grid;
-        grid-template-columns: 55px 0.5fr  25px 40px;
-        align-items: center;
-        gap: 10px;
-        margin-bottom: 15px;
-        padding: 0 10px;
-        box-shadow: 0 5px 10px burlywood;
-        border-radius: 10px;
-    }
+    display: grid;
+    grid-template-columns: 55px 0.5fr  25px 40px;
+    align-items: center;
+    gap: 14px;
+    margin-bottom: 15px;
+    padding: 0 6px;
+    box-shadow: 0 5px 10px burlywood;
+    border-radius: 10px;
+}
     .checkoutLayout .form input, .checkoutLayout .form select {
         width: 100%;
         padding: 12px 5px;
