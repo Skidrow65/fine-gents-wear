@@ -134,7 +134,7 @@ header .totalQuantity{
     position: fixed;
     width: 400px;
     max-width: 80vw;
-    height: 100vh;
+    height: 100%;
     background-color: burlywood;
     top: 0px;
     right: -100%;
