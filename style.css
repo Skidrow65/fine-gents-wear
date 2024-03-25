@@ -335,7 +335,7 @@ header .totalQuantity{
 @media only screen and (max-width: 768px) {
     .fa-anchor:before {
         content: "\f13d";
-        color: rgb(231, 164, 75);
+        color: brown;
     }
     h1 {
         font-size: 30px;
