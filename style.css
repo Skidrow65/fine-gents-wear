@@ -411,8 +411,8 @@ header .totalQuantity{
     transform: translateX(20px);
     background: burlywood;
     background-size: cover;
-    width: 23px;
-    border-radius: 18px;
+    width: 25px;
+    border-radius: 16px;
 }
     .returnCart h3 {
             font-size: 24px;
