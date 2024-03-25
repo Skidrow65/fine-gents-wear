@@ -335,7 +335,7 @@ header .totalQuantity{
 @media only screen and (max-width: 768px) {
     .fa-anchor:before {
         content: "\f13d";
-        color: brown;
+        color:rgba(102, 38, 9, 0.945);
     }
     h1 {
         font-size: 30px;
@@ -1480,11 +1480,11 @@ footer a:hover {
         top: 0;
         right: -300px;
         height: 100vh;
-        width: 300px;
+        width: 310px;
        background-color: rgba(3, 7, 18, .5);
         box-shadow: 0 40px 60px rgba(0, 0, 0, 0.1);
         padding: 80px 0 0 10px;
-        transition: 0.4s ease;
+        transition: 0.7s ease;
     }
     #navbar.active{
         right: -60px;
@@ -1492,12 +1492,29 @@ footer a:hover {
     #navbar li{
         margin-bottom: 25px;
     }
+    #navbar li a.active::after, #navbar li a:hover::after {
+        content: "";
+        width: 30%;
+        height: 2px;
+        background: rgba(199, 73, 14, 0.945);
+        position: absolute;
+        bottom: -4px;
+        left: 40px;
+        margin: auto;
+    }
     #navbar li a {
         text-decoration: none;
         font-size: 16px;
         font-weight: 600;
         color: white;
         transition: 0.3s ease;
+    }
+    #navbar li i {
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: 600;
+        color: white;
+        margin-right: 7px;
     }
      #navbar li a:hover, #navbar li a.active {
         color: rgb(231, 164, 75);
