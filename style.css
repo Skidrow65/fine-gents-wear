@@ -323,6 +323,22 @@ header .totalQuantity{
     border-radius: 5px;
     text-align: center;
 }
+.close
+{
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    margin-left: 7px;
+    margin-bottom: 12px;
+    margin-top: -12px;
+}
+.checkout
+{
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    margin-right: 7px;
+    margin-bottom: 12px;
+    margin-top: -12px;
+}
 
 @media only screen and (max-width: 992px) {
     .listProduct{
