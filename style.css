@@ -334,9 +334,10 @@ header .totalQuantity{
 /* mobile */
 @media only screen and (max-width: 768px) {
     .fa-anchor:before {
-        content: "\f13d";
-        color:antiquewhite;
-    }
+    content: "\f13d";
+    color: antiquewhite;
+    text-decoration: underline;
+}
     h1 {
         font-size: 30px;
         line-height: 38px;
