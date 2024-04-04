@@ -113,7 +113,7 @@ header .totalQuantity{
 .listProduct .item button{
     position: absolute;
     top: 50%;
-    left: 30px;
+    left: 50%;
     background-color: #e6572c;
     color: #fff;
     width: 50%;
@@ -455,8 +455,8 @@ header .totalQuantity{
     }
     .listProduct .item button {
         position: absolute;
-        top: 50%;
-        left: 30px;
+        top: 45%;
+        left: 38px;
         background-color: #e6572c;
         color: #fff;
         width: 90px;
