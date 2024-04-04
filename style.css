@@ -113,7 +113,7 @@ header .totalQuantity{
 .listProduct .item button{
     position: absolute;
     top: 50%;
-    left: 50%;
+    left: 30px;
     background-color: #e6572c;
     color: #fff;
     width: 50%;
@@ -121,14 +121,9 @@ header .totalQuantity{
     padding: 20px 30px;
     box-shadow: 0 10px 50px #000;
     cursor: pointer;
-    transform: translateX(-50%) translateY(100px);
-    opacity: 0;
+   
 }
-.listProduct .item:hover button{
-    transition:  0.5s;
-    opacity: 1;
-    transform: translateX(-50%) translateY(0);
-}
+
 .cart{
     color: #fff;
     position: fixed;
@@ -461,7 +456,7 @@ header .totalQuantity{
     .listProduct .item button {
         position: absolute;
         top: 50%;
-        left: 50%;
+        left: 30px;
         background-color: #e6572c;
         color: #fff;
         width: 90px;
@@ -469,8 +464,7 @@ header .totalQuantity{
         padding: 7px 7px;
         box-shadow: 0 10px 50px #000;
         cursor: pointer;
-        transform: translateX(-50%) translateY(100px);
-        opacity: 0;
+       
     }
     .checkoutLayout {
     display: grid;
