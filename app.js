@@ -50,7 +50,7 @@ function addDataToHTML(){
             <i class="fas fa-star"></i>
         </div>
             <div class="price">Ksh${product.price}</div>
-            <div class="irene"><i class="fas fa-shopping-cart" onclick="addCart(${product.id})"></i></div>`;
+            <div class="price"><button  onclick="addCart(${product.id})"> Add to cart </button></div>`;
 
             listProductHTML.appendChild(newProduct);
 
