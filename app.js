@@ -48,7 +48,6 @@ function addDataToHTML(){
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
-             <i class="fas fa-star"></i>
         </div>
             <div class="price">Ksh${product.price}</div>
             <div class="price"><button  onclick="addCart(${product.id})"> Add to cart </button></div>`;
